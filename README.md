@@ -17,3 +17,8 @@ Se tiene que comprobar que este la ip del servidor en los dos archivos.
 
 Se tiene que ejecutar en distintos terminales o consolas en un mismo equipo.
 La comunicacion es secuencial y de tipo 1 - 1 con el servidor pero varios clientes se pueden conectar a este.
+
+## Chat n - 1 distintos equipos
+
+Se tiene que comprobar que este la ip del servidor en todos los archivos.
+La comunicacion es secuencial y de tipo 1 - 1 con el servidor pero varios clientes se pueden conectar a este.
